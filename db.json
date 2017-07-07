@@ -2,7 +2,7 @@
   "customers": [
     {
       "id": 1,
-      "first": "Bob",
+      "first": "Robert",
       "last": "Joe",
       "status": "2015 macbook pro in for repair",
       "email": "bobjoe@gmail.com",
@@ -12,11 +12,20 @@
     {
       "id": 2,
       "first": "Sarah",
-      "last": "Croft",
+      "last": "Conner",
       "status": "No repairs in progress",
       "email": "sarahcroft@gmail.com",
       "phone": "(325)-345-2352",
       "log": "This\nis\nanother\ntest\nlog"
+    },
+    {
+      "first": "Donnie",
+      "last": "Darko",
+      "email": "D.Darko@gmail.com",
+      "phone": "2345432123",
+      "status": "New Customer",
+      "log": "",
+      "id": 3
     }
   ]
 }
